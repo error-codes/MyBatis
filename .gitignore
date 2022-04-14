@@ -1,0 +1,4 @@
+# 项目排除路径
+/Common/target/
+/Day01_JDBC复习/target/
+/Day02_手写MyBatis/target/
